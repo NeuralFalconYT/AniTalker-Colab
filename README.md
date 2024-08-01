@@ -10,10 +10,11 @@
 ### Demo<br>
 https://github.com/user-attachments/assets/55bc4486-ddcb-48b5-9839-9e991fa24e5c
 
+https://github.com/user-attachments/assets/3c2b847c-0afb-48bc-9dfc-220482caedf3
 
+https://github.com/user-attachments/assets/b649ecfb-d319-4899-90bc-effd0e8209f1
 
-https://github.com/user-attachments/assets/f8350a9f-7507-48d9-aad2-79a99295a5c1
-
+https://github.com/user-attachments/assets/b8341503-43ed-4060-b688-34a4d46bcf01
 
 ## Credit
 [AniTalker GitHub](https://github.com/X-LANCE/AniTalker)
