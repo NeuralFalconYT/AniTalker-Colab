@@ -1,4 +1,4 @@
-![edge_tts](https://github.com/user-attachments/assets/4c4b2c1e-347d-408f-a341-d149f62475bb)# Run AniTalker on Google Colab
+# Run AniTalker on Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/AniTalker-Colab/blob/main/AniTalker.ipynb) <br>
 
 ### Generate From Audio File<br>
